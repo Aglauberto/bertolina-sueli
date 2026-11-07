@@ -1,0 +1,14 @@
+# Dependencies & OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backups & Raw Chrome saved folder
+*_files/
+*(backup original)*
+*.pdf
+01-Gatilhos-e-Estresse.png
+02-Dilemas-e-Decisoes.png
+03-Postura-em-Conflitos.png
+04-Ciclos-e-Padroes.png
+Análise de Perfil Comportamental Big Five _ Bertolina Sueli.html
